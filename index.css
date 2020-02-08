@@ -1,0 +1,34 @@
+html, body {
+    background-color: black;
+}
+/* body{
+    position: relative;
+} */
+#Space-Jam{
+    color: white;
+    border: 5px solid rgb(145, 14, 14);
+    width: 100px;
+    height: 420px;
+    /* margin-left: center;
+    margin-right: center; */
+    position: absolute;
+    text-align: center;
+    /* top: 50px;
+    left: 50px; */
+
+    /*Margin */
+   /* margin-top:212px; ;
+    margin-bottom:0px ;
+    margin-right: 0px;
+    margin-left:250px ; */
+
+}
+#container {
+    border: 8px solid yellow;
+    width: 500px;
+    height: 500px;
+    margin: 200px;
+    padding: 0%;
+    position: relative;
+    resize: both;
+}
